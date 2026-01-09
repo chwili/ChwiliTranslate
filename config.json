@@ -1,0 +1,53 @@
+{
+  "ocr": {
+    "speed": "normal",
+    "gpu_enabled": true,
+    "languages": ["en"],
+    "confidence_threshold": 0.7
+  },
+  "translation": {
+    "provider": "google",
+    "source_language": "en",
+    "target_language": "tr",
+    "api_keys": {
+      "chatgpt": "",
+      "gemini": "",
+      "google": "",
+      "deepl": ""
+    }
+  },
+  "overlay": {
+    "opacity": 0.9,
+    "font_size": 18,
+    "font_family": "Segoe UI",
+    "background_blur": false,
+    "glow_effect": false,
+    "text_shadow": true,
+    "bold": false,
+    "italic": false,
+    "text_color": "#ffffff",
+    "bg_color": "#000000",
+    "glow_color": "#00d4ff",
+    "position": {
+      "x": 100,
+      "y": 100
+    }
+  },
+  "system": {
+    "cache_enabled": true,
+    "selected_monitor": 0,
+    "exclusion_areas": []
+  },
+  "region": {
+    "x": 0,
+    "y": 0,
+    "width": 800,
+    "height": 600,
+    "monitor_id": 0,
+    "name": "",
+    "enabled": true
+  },
+  "regions": {
+    "regions": []
+  }
+}

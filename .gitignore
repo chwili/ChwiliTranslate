@@ -55,8 +55,8 @@ logs/
 *.db
 cache.db
 
-# Config files (user specific)
-config.json
+# Config files (user specific - keep defaults)
+# config.json  # Include default config
 hotkeys.json
 
 # OS
