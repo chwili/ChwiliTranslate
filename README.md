@@ -59,16 +59,24 @@
 | GPU Hızlandırma | ✅ CUDA | Çoğunda yok |
 | Click-through Overlay | ✅ | Sınırlı |
 | Özelleştirilebilir Kısayollar | ✅ | Sabit |
-| Modern UI | ✅ Glassmorphism | Eski tasarım |
+| Modern UI | ✅ Mor/Siyah Gradient | Eski tasarım |
 | Akıllı Cache | ✅ | Yok |
 
 ---
 
 ## ✨ Özellikler
 
+### 🎨 Modern UI
+- **Mor/Siyah gradient** tasarım
+- Göz yormayan koyu tema
+- Şeffaf ve modern arayüz
+
 ### 🔍 OCR (Metin Tanıma)
 - **EasyOCR** altyapısı ile yüksek doğruluk
-- **GPU (CUDA)** hızlandırma desteği
+- **GPU (CUDA 12.1)** hızlandırma desteği
+- **Çoklu bölge** - Birden fazla OCR bölgesi tanımlama
+- Bölgeleri ayrı ayrı aktif/pasif yapma
+- Bölge isimlerini düzenleme ve silme
 - **50+ dil** desteği (Japonca, Çince, Korece, İngilizce vb.)
 - **3 hız modu**: Fast, Normal, Accurate
 - Ayarlanabilir doğruluk eşiği
@@ -91,9 +99,11 @@
   - Kalın/İtalik yazı
 
 ### ⌨️ Kısayollar
-- Tamamen özelleştirilebilir
+- **Tamamen özelleştirilebilir** kısayollar
+- Kategorilere ayrılmış kısayol paneli
+- Çakışma kontrolü
+- Varsayılana dön butonu
 - Global hotkey desteği (F9)
-- Hızlı erişim tuşları
 
 ### 🖥️ Sistem
 - **Sistem tepsisi** desteği
