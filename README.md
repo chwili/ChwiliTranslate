@@ -117,7 +117,7 @@
 
 ### Ana Sayfa
 
-![Uygulama Görseli](https://imgur.com/a/H5jQ12O)
+![Uygulama Görseli](https://i.imgur.com/8VGS0AV.png)
 
 
 ### Sekmeler
