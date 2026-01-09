@@ -117,10 +117,13 @@
 
 ### Ana Sayfa
 
-![Uygulama Görseli](https://i.imgur.com/8VGS0AV.png)
-![Uygulama Görseli](https://i.imgur.com/GlCMyiw.png)
-![Uygulama Görseli](https://i.imgur.com/Co2iFPN.png)
-![Uygulama Görseli](https://i.imgur.com/cS75EWz.png)
+## ![Uygulama Görseli](https://i.imgur.com/8VGS0AV.png)
+
+## ![Uygulama Görseli](https://i.imgur.com/GlCMyiw.png)
+
+## ![Uygulama Görseli](https://i.imgur.com/Co2iFPN.png)
+
+## ![Uygulama Görseli](https://i.imgur.com/cS75EWz.png)
 
 
 ### Sekmeler
